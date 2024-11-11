@@ -21,6 +21,14 @@ Real-Time Data from Unsplash API: Images are fetched in real time using the Unsp
 
 This repository is for educational purposes only and has an MIT License
 
+## Github repo
+
+This is the [link](https://github.com/VadymMakohon/API-Image-Generator) to the Github repo of the project
+
+## Sample Website
+
+A live demo is already available via this [link](https://vadymmakohon.github.io/API-Image-Generator/)
+
 ### Show your support
 
 Give a ⭐ if you like this project!
