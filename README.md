@@ -15,8 +15,8 @@ JavaScript: Core logic for interacting with the Unsplash API and handling user i
 Unsplash API: Provides access to a large collection of high-resolution images based on search queries.
 
 ### Show your support
-Give a ⭐ if you like these projects!
+Give a ⭐ if you like this project!
 
-## Contributors  <img src="https://cdn-icons-png.flaticon.com/512/5431/5431310.png" alt="Contribution Icon" width="50" height="50">
+## Contributor
 
 - [Vadym Makohon](https://github.com/VadymMakohon)
