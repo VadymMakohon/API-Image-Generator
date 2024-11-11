@@ -4,6 +4,8 @@
 
 This project is a simple web application that allows users to search for images using the Unsplash API. Users can enter a keyword into a search box, and the application will display relevant images in a grid format. The application uses HTML, CSS, and JavaScript to build the user interface and handle API requests.
 
+## Preview
+
 ## Features
 
 Search Functionality: Users can search for images by entering keywords (e.g., "mountains," "city," etc.).
