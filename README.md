@@ -14,6 +14,10 @@ CSS3: Styling and layout, including responsive design.
 JavaScript: Core logic for interacting with the Unsplash API and handling user interactions.
 Unsplash API: Provides access to a large collection of high-resolution images based on search queries.
 
+## 📜 License
+
+This repository is for educational purposes only and has an MIT License
+
 ### Show your support
 Give a ⭐ if you like this project!
 
