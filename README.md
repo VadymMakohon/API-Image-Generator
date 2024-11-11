@@ -13,3 +13,10 @@ HTML5: Markup for the structure of the app.
 CSS3: Styling and layout, including responsive design.
 JavaScript: Core logic for interacting with the Unsplash API and handling user interactions.
 Unsplash API: Provides access to a large collection of high-resolution images based on search queries.
+
+### Show your support
+Give a ⭐ if you like these projects!
+
+## Contributors  <img src="https://cdn-icons-png.flaticon.com/512/5431/5431310.png" alt="Contribution Icon" width="50" height="50">
+
+- [Vadym Makohon](https://github.com/VadymMakohon)
