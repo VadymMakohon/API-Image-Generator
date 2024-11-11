@@ -8,7 +8,7 @@ Search Functionality: Users can search for images by entering keywords (e.g., "m
 Dynamic Image Grid: Images are displayed in a responsive grid layout that updates with each search.
 Real-Time Data from Unsplash API: Images are fetched in real time using the Unsplash API, providing high-quality photos for any search term.
 
-##Technologies Used
+## Technologies Used
 HTML5: Markup for the structure of the app.
 CSS3: Styling and layout, including responsive design.
 JavaScript: Core logic for interacting with the Unsplash API and handling user interactions.
